@@ -1,0 +1,6 @@
+@CleanMovie.API_HostAddress = http://localhost:5031
+
+GET {{CleanMovie.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
